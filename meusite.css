@@ -1,0 +1,57 @@
+header{
+    background-color: blueviolet;
+    text-align: right;
+    margin: 0 .75em;
+    font-size:50px;
+    font-weight:100
+}
+header nav a{
+    color: white;
+    font-size: 25px;
+    right: 0px; 
+    margin-right: auto;
+    
+}
+.sidenav{
+    position: absolute;
+    display: block;
+    margin-left: 40%;
+    margin-right: 30%}
+}
+
+main{
+    
+    display:block 
+}
+main h1{
+    text-align: center;
+    font-size: 50px;
+}
+main h2{
+    text-align: center;
+    font-size: 40px;
+}
+.one{
+    display: block;
+    margin-top: 400px;
+    margin-bottom: 0px;
+}
+body{
+    color: white;
+    margin: 0;
+    background-color: rgb(117, 10, 218);
+}
+p{
+    text-align: justify;
+    border: 1px solid red;
+    padding: 2px;
+    margin: 100px;
+    margin-top: 15px;
+    font-style: normal;
+    font-size: 20px;
+    width: 100px 70px;
+    height: 200px;
+    line-height: 25px;
+    justify-content: center;
+   
+}
